@@ -2,8 +2,7 @@
 import { useScroll, useTransform } from 'framer-motion';
 import React from 'react';
 import { GoogleGeminiEffect2 } from '@/components/ui/google-gemini-effect2';
-import HeroEdit from './HeroEdit';
-import Section from './Section';
+
 
 export function Gem2 ()
 {
